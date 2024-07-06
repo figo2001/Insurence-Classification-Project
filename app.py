@@ -33,7 +33,7 @@ def main():
     # Title of the Page
     st.title("Insurance Classification Project 📝")
 
-    st.info("Kaggle Competetion - Playground Series - Season 4, Episode 7")
+    st.error("Kaggle Competetion - Playground Series - Season 4, Episode 7")
 
     
     # Getting input data from user
